@@ -1,5 +1,6 @@
 *{
  padding: 0px;
+ margin: 0px;
 }
 
 
@@ -9,29 +10,60 @@ img{
 }
 
 #curriculo{
-
-
+font-family: 'Signika', sans-serif;
 width: 800px;
-
+margin:auto auto;
+background-color: #DCDCDC;
 
 }
 .titulo{
-background-color: grey;
-margin: 0px;
+background-color: #E4E4E4;
+margin-top: 0px;
+
 }
 .nome{
-
+  margin-top: 30px;
+  margin-left: 75px;
   float: left;
-
+  font-size: 30px;
 }
 .contatos{
+  margin-top: 45px;
+  margin-right: 10px;
   text-align: right;
   float: right;
+  margin-bottom: 20px;
 }
 .limparfloat{
 clear: both;
 }
-.body{
-  background-color: blue;
-  padding-top: 0px;
+body{
+  background-color: #000000;
+}
+
+
+.objetivo{
+margin-top: 20px;
+  margin-left: 80px;
+}
+.experiencia, .educação, .habilidades, .atividades{
+  margin-top: 50px;
+  margin-left: 80px;
+}
+
+.Contobj, .ContExper, .ContHabil, .ContAtivi{
+  margin-left: 35px;
+  margin-top: 5px;
+  text-align:justify;
+  margin-right: 50px;
+}
+.ContEducação1{
+  margin-left: 35px;
+  margin-top: 5px;
+  text-align:justify;
+}
+.ContEducação2{
+  margin-left: 35px;
+  margin-top: 20px;
+  text-align:justify;
 }
