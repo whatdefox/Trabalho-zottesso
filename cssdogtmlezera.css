@@ -22,13 +22,13 @@ margin-top: 0px;
 
 }
 .nome{
-  margin-top: 30px;
+  margin-top: 20px;
   margin-left: 75px;
   float: left;
   font-size: 30px;
 }
 .contatos{
-  margin-top: 45px;
+  margin-top: 25px;
   margin-right: 10px;
   text-align: right;
   float: right;
@@ -59,7 +59,7 @@ margin-top: 20px;
 }
 .ContEducação1{
   margin-left: 35px;
-  margin-top: 5px;
+  margin-top: 20px;
   text-align:justify;
 }
 .ContEducação2{
